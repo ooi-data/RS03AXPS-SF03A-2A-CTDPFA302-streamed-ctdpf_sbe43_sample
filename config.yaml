@@ -1,9 +1,9 @@
 assigness: []
 harvest_options:
+  goldcopy: false
   path: s3://ooi-data
   refresh: true
   test: false
-  goldcopy: true
 instrument: RS03AXPS-SF03A-2A-CTDPFA302
 stream:
   method: streamed
