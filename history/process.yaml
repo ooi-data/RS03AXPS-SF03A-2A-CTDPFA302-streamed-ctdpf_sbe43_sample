@@ -1,6 +1,6 @@
 data_location: s3://ooi-data/RS03AXPS-SF03A-2A-CTDPFA302-streamed-ctdpf_sbe43_sample
 data_stream: RS03AXPS-SF03A-2A-CTDPFA302-streamed-ctdpf_sbe43_sample
-end_date: '2022-01-21T02:24:12.800Z'
-last_updated: '2022-01-21T08:19:46.430177'
+end_date: '2022-01-01T02:58:04.972Z'
+last_updated: '2022-01-21T23:47:11.863568Z'
 start_date: '2014-10-07T21:32:53.602Z'
-status: failed
+status: pending
